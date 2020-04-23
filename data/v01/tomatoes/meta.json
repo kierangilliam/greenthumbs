@@ -1,0 +1,41 @@
+{
+    "classes": [
+        {
+            "title": "tomato_fruit_unripe",
+            "shape": "any",
+            "color": "#05F005",
+            "geometry_config": {}
+        },
+        {
+            "title": "tomato_fruit",
+            "shape": "any",
+            "color": "#09C859",
+            "geometry_config": {}
+        },
+        {
+            "title": "tomato_seedling",
+            "shape": "any",
+            "color": "#7A7FC7",
+            "geometry_config": {}
+        },
+        {
+            "title": "tomato_young_plant",
+            "shape": "any",
+            "color": "#6FF1B2",
+            "geometry_config": {}
+        },
+        {
+            "title": "tomato_flower",
+            "shape": "any",
+            "color": "#F5F54D",
+            "geometry_config": {}
+        }
+    ],
+    "tags": [
+        {
+            "name": "skip",
+            "value_type": "none",
+            "color": "#9C3735"
+        }
+    ]
+}
