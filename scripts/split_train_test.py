@@ -25,7 +25,7 @@ for ds in [train, test]:
   annotations = []
   for image in ds["images"]:
     i = image["id"]
-    annotations.append([ann for ann in dataset["annotations"] if ann["image_id"] == i])
+    annotations.extend([ann for ann in dataset["annotations"] if ann["image_id"] == i])
   ds["annotations"] = annotations
 
 with open(base_dir + '/train_coco.json', 'w') as outfile:
