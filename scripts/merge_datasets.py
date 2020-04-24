@@ -21,7 +21,7 @@ for dataset in folders:
 	for subfolder in ['ann', 'img']:
 
 		print(dataset)
-		path = os.path.join(os.getcwd(), dataset + "/ann")
+		path = os.path.join(os.getcwd(), dataset + '/' + subfolder) 
 		files = [f for f in listdir(path) if isfile(join(path, f))]
 		print(len(files))
 	    
