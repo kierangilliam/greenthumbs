@@ -22,10 +22,6 @@ import random
 import os
 import json
 
-# colab
-from google.colab import files
-from google.colab.patches import cv2_imshow
-
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
                                       Constants 
