@@ -37,7 +37,7 @@ NUM_CLASSES = 5
 # or different data augmentation methods
 versions = ["v01"]
 test_train_splits = ["65%", "75%", "85%"]
-iters = [101, 750, 1250, 1750]
+iters = [750, 1250]
 lrs = [.002, .001, .0005, .00025, .0001]
 batch_sizes_per_img = [128, 512]
 models = [ # All presumed to be in the COCO_Detection folder
