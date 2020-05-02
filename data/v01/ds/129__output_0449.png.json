@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T05:51:27.179Z",
+            "updatedAt": "2020-05-01T05:51:27.179Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        791,
+                        152
+                    ],
+                    [
+                        834,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

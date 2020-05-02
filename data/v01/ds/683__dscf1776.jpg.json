@@ -1,0 +1,62 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "name": "has_fruit",
+            "value": null,
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-03-30T19:39:14.027Z",
+            "updatedAt": "2020-03-30T19:39:14.027Z"
+        }
+    ],
+    "size": {
+        "height": 2448,
+        "width": 3264
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:01:37.048Z",
+            "updatedAt": "2020-04-10T04:04:19.974Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        48
+                    ],
+                    [
+                        3246,
+                        2432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:04:19.611Z",
+            "updatedAt": "2020-04-10T04:04:23.129Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        2305,
+                        1059
+                    ],
+                    [
+                        2595,
+                        1462
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

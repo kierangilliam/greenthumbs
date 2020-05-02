@@ -1,4 +1,4 @@
-## 
+##
 # Author: Caio Marcellos
 # Email: caiocuritiba@gmail.com
 ##
@@ -7,15 +7,15 @@ import numpy as np
 import json
 import glob
 from datetime import datetime
-from pathlib import Path 
+from pathlib import Path
 import argparse
 import sys
 
 """
 Converting from suvervisely to COCO Format (only detection (bbox) tested in this version)
 
-Example of Usage from commandline:
-`py supervisely2coco.py meta.json './ds/ann/'  formatted2.json `
+Example of Usage from commandline: (within data/v*/)
+`python3 ../../to_coco.py -n meta.json './ds/' coco.json`
 """
 
 
@@ -29,10 +29,10 @@ def convert_supervisely_to_coco(meta_path,
     - save_as: if defined (not None) is a path to save the COCO generated json format
     - bbox outputted as BoxMode.XYWH_ABS
 
-    TODO: 
+    TODO:
     - tags: e.g train, val
     - Segmentation, for now just converting the bbox (for detection)
-    """ 
+    """
 
     ann_fnames, ann_jsons = get_all_ann_file(ann_base_dir)
     map_category = get_categories_from_meta(meta_path)
@@ -44,7 +44,7 @@ def convert_supervisely_to_coco(meta_path,
     } for k,v in map_category.items()]
 
     out_cnv_imgs = [
-        convert_single_image(id_img, ann_fnames[id_img], ann_jsons[id_img], 
+        convert_single_image(id_img, ann_fnames[id_img], ann_jsons[id_img],
             map_category, ann_base_dir, only_img_name)
         for id_img in range(len(ann_fnames))
     ]
@@ -97,7 +97,7 @@ class NpEncoder(json.JSONEncoder):
 
 def convert_single_image(idimg, fname_img, json_suprv, map_category, imgs_base_dir, only_img_name=False, start_annotation_id=0):
     # output in mode BoxMode.XYWH_ABS
-    
+
     image_base = {
             "id": idimg,
             "width": json_suprv['size']['width'],
@@ -152,7 +152,7 @@ def get_all_ann_file(base_dir):
 def get_categories_from_meta(meta_json_path):
     with open(meta_json_path) as fs:
         json_meta = json.load(fs)
-    
+
     classes = [clss['title'] for clss in json_meta['classes'] if clss['title'] != 'bg']
     mapCategories = {c: i for i, c in enumerate(classes)}
     return mapCategories
@@ -181,8 +181,8 @@ def main():
     parser.add_argument("meta", type=str, help="Meta JSON File")
     parser.add_argument("ann_base_dir", type=str, help="Annotations base directory (usually downloaded in './ds/ann/' )")
     parser.add_argument("output", type=str, help="Output Coco JSON File")
-    parser.add_argument('-n', '--only-image-name', action='store_true', 
-                        help="Save only the image name (not the full path)")    
+    parser.add_argument('-n', '--only-image-name', action='store_true',
+                        help="Save only the image name (not the full path)")
     args = parser.parse_args()
 
     meta = args.meta
@@ -200,5 +200,3 @@ if __name__ == "__main__":
     main()
 
     pass
-
-

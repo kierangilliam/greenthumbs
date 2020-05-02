@@ -29,6 +29,66 @@
             "shape": "any",
             "color": "#F5F54D",
             "geometry_config": {}
+        },
+        {
+            "title": "bell_pepper_fruit",
+            "shape": "rectangle",
+            "color": "#F8E71C",
+            "geometry_config": {}
+        },
+        {
+            "title": "bell_pepper_young_plant",
+            "shape": "rectangle",
+            "color": "#36AF50",
+            "geometry_config": {}
+        },
+        {
+            "title": "bell_pepper_flower",
+            "shape": "rectangle",
+            "color": "#BD10E0",
+            "geometry_config": {}
+        },
+        {
+            "title": "bell_pepper_fruit_unripe",
+            "shape": "rectangle",
+            "color": "#B8E986",
+            "geometry_config": {}
+        },
+        {
+            "title": "bell_pepper_seedling",
+            "shape": "rectangle",
+            "color": "#8B572A",
+            "geometry_config": {}
+        },
+        {
+            "title": "cucumber_flower",
+            "shape": "any",
+            "color": "#F8E71C",
+            "geometry_config": {}
+        },
+        {
+            "title": "cucumber_plant",
+            "shape": "any",
+            "color": "#417505",
+            "geometry_config": {}
+        },
+        {
+            "title": "cucumber_seedling",
+            "shape": "any",
+            "color": "#7ED321",
+            "geometry_config": {}
+        },
+        {
+            "title": "cucumber_fruit",
+            "shape": "any",
+            "color": "#17C49C",
+            "geometry_config": {}
+        },
+        {
+            "title": "cucumber_fruit_unripe",
+            "shape": "any",
+            "color": "#F5A623",
+            "geometry_config": {}
         }
     ],
     "tags": [
