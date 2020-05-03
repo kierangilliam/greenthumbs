@@ -2,7 +2,7 @@ import random
 import json
 
 # Creates two different coco files out of a single coco file
-base_dir = "data/v01/"
+base_dir = "data/v02/"
 
 ratios = [.65, .75, .85]
 
@@ -36,4 +36,3 @@ for ratio in ratios:
       json.dump(test, outfile)
 
     print(f"Done. {len(train['images'])} train images, {len(test['images'])} test images.")
-
