@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 454,
+        "width": 680
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T03:13:28.347Z",
+            "updatedAt": "2020-05-03T03:13:47.294Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        251
+                    ],
+                    [
+                        646,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T03:13:31.962Z",
+            "updatedAt": "2020-05-03T03:13:47.294Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        51
+                    ],
+                    [
+                        636,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T03:13:34.944Z",
+            "updatedAt": "2020-05-03T03:13:47.294Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        282
+                    ],
+                    [
+                        421,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T03:13:38.640Z",
+            "updatedAt": "2020-05-03T03:13:47.294Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        48,
+                        55
+                    ],
+                    [
+                        232,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T03:13:42.437Z",
+            "updatedAt": "2020-05-03T03:13:47.294Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        31
+                    ],
+                    [
+                        427,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T03:13:47.040Z",
+            "updatedAt": "2020-05-03T03:13:50.573Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        199
+                    ],
+                    [
+                        192,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

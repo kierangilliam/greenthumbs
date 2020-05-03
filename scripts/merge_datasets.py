@@ -17,7 +17,7 @@ tomato_folders = [
     'classified',
     'labeled mainly seedstart',
 ]
-bell_folders = ['bell_peppers_2', 'bell_peppers']
+bell_folders = ['bell_peppers_2', 'bell_peppers', 'bell_peppers_001']
 cucumber_folders = ['Cucumbers1', 'Cucumbers2', 'Cucumbers3']
 
 folders = []

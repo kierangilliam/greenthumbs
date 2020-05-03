@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 377,
+        "width": 400
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T02:47:20.942Z",
+            "updatedAt": "2020-05-03T02:47:20.942Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        23
+                    ],
+                    [
+                        331,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
