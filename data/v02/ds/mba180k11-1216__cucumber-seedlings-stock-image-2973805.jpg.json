@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1067,
+        "width": 1300
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:20:11.679Z",
+            "updatedAt": "2020-04-30T19:20:17.923Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        85
+                    ],
+                    [
+                        730,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:20:17.689Z",
+            "updatedAt": "2020-04-30T19:20:17.689Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        509,
+                        118
+                    ],
+                    [
+                        1206,
+                        877
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

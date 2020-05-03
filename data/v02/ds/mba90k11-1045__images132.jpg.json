@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 262,
+        "width": 193
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T06:29:01.224Z",
+            "updatedAt": "2020-05-01T06:29:14.572Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        24
+                    ],
+                    [
+                        121,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T06:29:04.199Z",
+            "updatedAt": "2020-05-01T06:29:14.572Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        94
+                    ],
+                    [
+                        94,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T06:29:07.178Z",
+            "updatedAt": "2020-05-01T06:29:14.572Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        144
+                    ],
+                    [
+                        114,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T06:29:14.316Z",
+            "updatedAt": "2020-05-01T06:29:14.316Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        199
+                    ],
+                    [
+                        94,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:24:12.433Z",
+            "updatedAt": "2020-05-01T07:24:20.370Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        605,
+                        342
+                    ],
+                    [
+                        650,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:24:16.260Z",
+            "updatedAt": "2020-05-01T07:24:20.370Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        245
+                    ],
+                    [
+                        501,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:24:20.165Z",
+            "updatedAt": "2020-05-01T07:24:20.165Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        788,
+                        360
+                    ],
+                    [
+                        827,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

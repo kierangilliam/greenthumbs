@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:21:57.013Z",
+            "updatedAt": "2020-05-01T07:22:12.766Z",
+            "tags": [],
+            "classTitle": "cucumber_flower",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        468
+                    ],
+                    [
+                        120,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:22:01.345Z",
+            "updatedAt": "2020-05-01T07:22:12.766Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        782,
+                        23
+                    ],
+                    [
+                        878,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:22:03.718Z",
+            "updatedAt": "2020-05-01T07:22:12.766Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        912,
+                        340
+                    ],
+                    [
+                        1001,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:22:08.123Z",
+            "updatedAt": "2020-05-01T07:22:12.766Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        904,
+                        541
+                    ],
+                    [
+                        962,
+                        688
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:22:12.531Z",
+            "updatedAt": "2020-05-01T07:22:12.531Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        1030,
+                        507
+                    ],
+                    [
+                        1074,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:22:15.139Z",
+            "updatedAt": "2020-05-01T07:22:15.139Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        1012,
+                        295
+                    ],
+                    [
+                        1041,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

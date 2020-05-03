@@ -1,0 +1,164 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 720
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:19:54.326Z",
+            "updatedAt": "2020-04-27T05:20:07.068Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        106
+                    ],
+                    [
+                        439,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:19:56.308Z",
+            "updatedAt": "2020-04-27T05:20:05.222Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        484,
+                        51
+                    ],
+                    [
+                        533,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:19:58.403Z",
+            "updatedAt": "2020-04-27T05:20:07.068Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        81
+                    ],
+                    [
+                        565,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:20:00.531Z",
+            "updatedAt": "2020-04-27T05:20:05.222Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        673,
+                        89
+                    ],
+                    [
+                        715,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:20:02.834Z",
+            "updatedAt": "2020-04-27T05:20:07.068Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        640,
+                        328
+                    ],
+                    [
+                        686,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:20:04.710Z",
+            "updatedAt": "2020-04-27T05:20:04.710Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        585,
+                        319
+                    ],
+                    [
+                        623,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T05:20:06.775Z",
+            "updatedAt": "2020-04-27T05:20:09.790Z",
+            "tags": [],
+            "classTitle": "tomato_flower",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        95
+                    ],
+                    [
+                        394,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 520
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T02:46:09.513Z",
+            "updatedAt": "2020-05-03T02:46:12.540Z",
+            "tags": [],
+            "classTitle": "bell_pepper_flower",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        240
+                    ],
+                    [
+                        221,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T02:46:12.274Z",
+            "updatedAt": "2020-05-03T02:46:12.274Z",
+            "tags": [],
+            "classTitle": "bell_pepper_flower",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        260
+                    ],
+                    [
+                        173,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

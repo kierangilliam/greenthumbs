@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T05:56:03.715Z",
+            "updatedAt": "2020-05-01T05:56:03.715Z",
+            "tags": [],
+            "classTitle": "tomato_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        576,
+                        185
+                    ],
+                    [
+                        673,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

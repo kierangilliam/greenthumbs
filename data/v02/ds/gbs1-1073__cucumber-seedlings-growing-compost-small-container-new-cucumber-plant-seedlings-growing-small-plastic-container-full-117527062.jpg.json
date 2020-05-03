@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1200,
+        "width": 1300
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:23.634Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        538
+                    ],
+                    [
+                        397,
+                        883
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:27.799Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        266
+                    ],
+                    [
+                        561,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:32.915Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        39
+                    ],
+                    [
+                        821,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:36.124Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        835,
+                        18
+                    ],
+                    [
+                        1112,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:40.675Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        1008,
+                        259
+                    ],
+                    [
+                        1203,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:49.660Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        926,
+                        505
+                    ],
+                    [
+                        1121,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:53.834Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        237
+                    ],
+                    [
+                        887,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:18:57.676Z",
+            "updatedAt": "2020-04-30T19:19:01.787Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        602,
+                        566
+                    ],
+                    [
+                        750,
+                        950
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:19:01.566Z",
+            "updatedAt": "2020-04-30T19:19:01.566Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        720
+                    ],
+                    [
+                        514,
+                        1034
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

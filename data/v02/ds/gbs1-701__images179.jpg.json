@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 259,
+        "width": 194
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:20:41.417Z",
+            "updatedAt": "2020-04-10T04:20:41.417Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        99
+                    ],
+                    [
+                        126,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

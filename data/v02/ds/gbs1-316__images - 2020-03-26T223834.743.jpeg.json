@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 183,
+        "width": 275
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-09T07:22:30.838Z",
+            "updatedAt": "2020-04-09T07:22:34.328Z",
+            "tags": [],
+            "classTitle": "tomato_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        83
+                    ],
+                    [
+                        136,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-09T07:22:33.960Z",
+            "updatedAt": "2020-04-09T07:22:33.960Z",
+            "tags": [],
+            "classTitle": "tomato_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        49
+                    ],
+                    [
+                        242,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

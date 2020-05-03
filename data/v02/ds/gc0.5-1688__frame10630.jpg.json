@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-09T22:52:55.068Z",
+            "updatedAt": "2020-04-09T22:53:03.179Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        291
+                    ],
+                    [
+                        487,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-09T22:52:59.026Z",
+            "updatedAt": "2020-04-09T22:53:03.179Z",
+            "tags": [],
+            "classTitle": "cucumber_flower",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        177
+                    ],
+                    [
+                        619,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-09T22:53:02.900Z",
+            "updatedAt": "2020-04-09T22:53:02.900Z",
+            "tags": [],
+            "classTitle": "cucumber_flower",
+            "points": {
+                "exterior": [
+                    [
+                        918,
+                        276
+                    ],
+                    [
+                        1064,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 264,
+        "width": 191
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-09T06:35:42.204Z",
+            "updatedAt": "2020-04-09T06:35:50.642Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        99
+                    ],
+                    [
+                        120,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-09T06:35:45.873Z",
+            "updatedAt": "2020-04-09T06:35:50.642Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        91
+                    ],
+                    [
+                        170,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-09T06:35:50.306Z",
+            "updatedAt": "2020-04-09T06:35:59.542Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        124
+                    ],
+                    [
+                        47,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

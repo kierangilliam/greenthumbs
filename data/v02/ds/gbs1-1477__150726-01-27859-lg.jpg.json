@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1500,
+        "width": 1000
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-25T17:39:54.122Z",
+            "updatedAt": "2020-04-25T17:40:08.681Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        473
+                    ],
+                    [
+                        524,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-25T17:40:08.447Z",
+            "updatedAt": "2020-04-25T17:40:08.447Z",
+            "tags": [],
+            "classTitle": "cucumber_flower",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        744
+                    ],
+                    [
+                        765,
+                        880
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-25T17:40:11.112Z",
+            "updatedAt": "2020-04-25T17:40:11.112Z",
+            "tags": [],
+            "classTitle": "cucumber_flower",
+            "points": {
+                "exterior": [
+                    [
+                        816,
+                        1058
+                    ],
+                    [
+                        948,
+                        1178
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

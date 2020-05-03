@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "name": "has_fruit",
+            "value": null,
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-03-30T19:00:38.959Z",
+            "updatedAt": "2020-03-30T19:00:38.959Z"
+        }
+    ],
+    "size": {
+        "height": 1000,
+        "width": 1500
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T03:55:53.214Z",
+            "updatedAt": "2020-04-10T03:56:03.996Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        862,
+                        225
+                    ],
+                    [
+                        1328,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T03:55:58.155Z",
+            "updatedAt": "2020-04-10T03:56:03.996Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        359
+                    ],
+                    [
+                        867,
+                        774
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T03:56:03.620Z",
+            "updatedAt": "2020-04-10T03:56:06.666Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        566,
+                        120
+                    ],
+                    [
+                        899,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

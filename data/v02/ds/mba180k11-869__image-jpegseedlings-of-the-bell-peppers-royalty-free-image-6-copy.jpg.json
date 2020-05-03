@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2576,
+        "width": 3865
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T05:38:59.619Z",
+            "updatedAt": "2020-05-03T05:39:04.244Z",
+            "tags": [],
+            "classTitle": "bell_pepper_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        1117,
+                        785
+                    ],
+                    [
+                        2523,
+                        2130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T05:39:03.992Z",
+            "updatedAt": "2020-05-03T05:39:03.992Z",
+            "tags": [],
+            "classTitle": "bell_pepper_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        2014,
+                        11
+                    ],
+                    [
+                        3093,
+                        1048
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

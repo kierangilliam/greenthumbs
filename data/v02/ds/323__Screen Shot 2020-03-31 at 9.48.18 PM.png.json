@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1538,
+        "width": 2776
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:02:49.974Z",
+            "updatedAt": "2020-04-27T04:03:00.024Z",
+            "tags": [],
+            "classTitle": "tomato_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        1412,
+                        703
+                    ],
+                    [
+                        2195,
+                        1508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:02:52.470Z",
+            "updatedAt": "2020-04-27T04:03:00.024Z",
+            "tags": [],
+            "classTitle": "tomato_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        804,
+                        569
+                    ],
+                    [
+                        1534,
+                        1489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:02:55.449Z",
+            "updatedAt": "2020-04-27T04:03:00.024Z",
+            "tags": [],
+            "classTitle": "tomato_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        557
+                    ],
+                    [
+                        801,
+                        1503
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:02:59.793Z",
+            "updatedAt": "2020-04-27T04:02:59.793Z",
+            "tags": [],
+            "classTitle": "tomato_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        2231,
+                        562
+                    ],
+                    [
+                        2569,
+                        1247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

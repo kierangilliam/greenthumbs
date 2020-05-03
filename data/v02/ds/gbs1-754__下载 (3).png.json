@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:18:16.210Z",
+            "updatedAt": "2020-04-10T05:18:28.766Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        0
+                    ],
+                    [
+                        793,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:18:23.392Z",
+            "updatedAt": "2020-04-10T05:18:28.766Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        831,
+                        77
+                    ],
+                    [
+                        1035,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:18:28.522Z",
+            "updatedAt": "2020-04-10T05:18:28.522Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        90
+                    ],
+                    [
+                        707,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

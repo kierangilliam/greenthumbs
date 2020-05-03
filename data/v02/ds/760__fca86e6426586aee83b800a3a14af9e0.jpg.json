@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "name": "has_fruit",
+            "value": null,
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-03-30T19:39:20.569Z",
+            "updatedAt": "2020-03-30T19:39:20.569Z"
+        }
+    ],
+    "size": {
+        "height": 1000,
+        "width": 1000
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:04:35.351Z",
+            "updatedAt": "2020-04-10T04:04:43.513Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        147
+                    ],
+                    [
+                        518,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:04:38.045Z",
+            "updatedAt": "2020-04-10T04:04:43.513Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        471
+                    ],
+                    [
+                        537,
+                        745
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:04:43.248Z",
+            "updatedAt": "2020-04-10T04:04:43.248Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        512
+                    ],
+                    [
+                        670,
+                        793
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

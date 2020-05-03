@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 168,
+        "width": 299
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-09T06:31:05.397Z",
+            "updatedAt": "2020-04-09T06:31:05.397Z",
+            "tags": [],
+            "classTitle": "tomato_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        13
+                    ],
+                    [
+                        241,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

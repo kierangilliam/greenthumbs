@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4608,
+        "width": 3456
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T05:33:57.853Z",
+            "updatedAt": "2020-05-03T05:33:57.853Z",
+            "tags": [],
+            "classTitle": "bell_pepper_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        579
+                    ],
+                    [
+                        2883,
+                        2748
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

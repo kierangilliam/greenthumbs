@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T05:55:56.959Z",
+            "updatedAt": "2020-05-01T05:55:56.959Z",
+            "tags": [],
+            "classTitle": "tomato_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        97
+                    ],
+                    [
+                        629,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T05:55:58.826Z",
+            "updatedAt": "2020-05-01T05:55:58.826Z",
+            "tags": [],
+            "classTitle": "tomato_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        121
+                    ],
+                    [
+                        530,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

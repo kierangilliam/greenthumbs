@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T07:06:51.017Z",
+            "updatedAt": "2020-05-01T07:06:51.017Z",
+            "tags": [],
+            "classTitle": "tomato_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        338
+                    ],
+                    [
+                        710,
+                        545
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

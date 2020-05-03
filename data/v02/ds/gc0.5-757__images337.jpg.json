@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 275,
+        "width": 183
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:36:51.186Z",
+            "updatedAt": "2020-04-10T04:36:55.831Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        142
+                    ],
+                    [
+                        93,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:36:55.387Z",
+            "updatedAt": "2020-04-10T04:36:55.387Z",
+            "tags": [],
+            "classTitle": "bell_pepper_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        35
+                    ],
+                    [
+                        175,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

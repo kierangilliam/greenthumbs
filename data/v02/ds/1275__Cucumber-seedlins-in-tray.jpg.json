@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1067,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:14:16.176Z",
+            "updatedAt": "2020-04-30T19:14:25.427Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        359
+                    ],
+                    [
+                        1122,
+                        971
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:14:20.216Z",
+            "updatedAt": "2020-04-30T19:14:25.427Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        1083,
+                        465
+                    ],
+                    [
+                        1517,
+                        960
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-04-30T19:14:25.202Z",
+            "updatedAt": "2020-04-30T19:14:25.202Z",
+            "tags": [],
+            "classTitle": "cucumber_seedling",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        333
+                    ],
+                    [
+                        607,
+                        971
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

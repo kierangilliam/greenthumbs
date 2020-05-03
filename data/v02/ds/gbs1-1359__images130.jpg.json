@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 190,
+        "width": 265
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T06:28:24.230Z",
+            "updatedAt": "2020-05-01T06:28:24.230Z",
+            "tags": [],
+            "classTitle": "cucumber_flower",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        115
+                    ],
+                    [
+                        170,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

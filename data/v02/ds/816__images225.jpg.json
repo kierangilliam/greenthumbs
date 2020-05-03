@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 192,
+        "width": 262
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:25:23.479Z",
+            "updatedAt": "2020-04-10T05:25:23.479Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        25
+                    ],
+                    [
+                        204,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:25:25.778Z",
+            "updatedAt": "2020-04-10T05:25:29.575Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        123
+                    ],
+                    [
+                        114,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

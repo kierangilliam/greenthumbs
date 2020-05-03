@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1418,
+        "width": 1388
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:07.803Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        355
+                    ],
+                    [
+                        453,
+                        462
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:10.434Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        720,
+                        792
+                    ],
+                    [
+                        854,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:12.822Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        1191
+                    ],
+                    [
+                        446,
+                        1296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:15.194Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        1107,
+                        792
+                    ],
+                    [
+                        1213,
+                        890
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:17.556Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        764,
+                        579
+                    ],
+                    [
+                        859,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:19.775Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        867,
+                        627
+                    ],
+                    [
+                        952,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:27.710Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        1026,
+                        1266
+                    ],
+                    [
+                        1128,
+                        1369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:30.641Z",
+            "updatedAt": "2020-04-27T04:04:34.073Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        519,
+                        731
+                    ],
+                    [
+                        647,
+                        848
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-04-27T04:04:33.844Z",
+            "updatedAt": "2020-04-27T04:04:33.844Z",
+            "tags": [],
+            "classTitle": "tomato_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        1169,
+                        755
+                    ],
+                    [
+                        1255,
+                        841
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

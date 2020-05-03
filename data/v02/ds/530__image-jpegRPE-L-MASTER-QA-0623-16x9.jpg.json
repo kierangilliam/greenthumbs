@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 3624
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-26T23:40:41.584Z",
+            "updatedAt": "2020-04-26T23:40:41.584Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        1491,
+                        775
+                    ],
+                    [
+                        2256,
+                        1626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

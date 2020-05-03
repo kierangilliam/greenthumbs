@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 315,
+        "width": 420
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-05-03T02:10:20.789Z",
+            "updatedAt": "2020-05-03T02:10:20.789Z",
+            "tags": [],
+            "classTitle": "bell_pepper_flower",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        117
+                    ],
+                    [
+                        319,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

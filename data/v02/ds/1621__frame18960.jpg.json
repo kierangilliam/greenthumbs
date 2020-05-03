@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:25:12.385Z",
+            "updatedAt": "2020-05-01T07:25:19.069Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        249
+                    ],
+                    [
+                        407,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ewwong2@dons.usfca.edu",
+            "createdAt": "2020-05-01T07:25:18.752Z",
+            "updatedAt": "2020-05-01T07:25:18.752Z",
+            "tags": [],
+            "classTitle": "cucumber_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        342
+                    ],
+                    [
+                        543,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

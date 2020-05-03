@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 1300
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:13:18.528Z",
+            "updatedAt": "2020-04-10T05:13:33.418Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        323
+                    ],
+                    [
+                        589,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:13:23.853Z",
+            "updatedAt": "2020-04-10T05:13:31.165Z",
+            "tags": [
+                {
+                    "name": "seed",
+                    "value": null,
+                    "labelerLogin": "simonl07",
+                    "createdAt": "2020-04-10T05:13:30.238Z",
+                    "updatedAt": "2020-04-10T05:13:30.238Z"
+                }
+            ],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        342
+                    ],
+                    [
+                        763,
+                        651
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T05:13:33.185Z",
+            "updatedAt": "2020-04-10T05:13:38.968Z",
+            "tags": [],
+            "classTitle": "bell_pepper_flower",
+            "points": {
+                "exterior": [
+                    [
+                        634,
+                        218
+                    ],
+                    [
+                        689,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

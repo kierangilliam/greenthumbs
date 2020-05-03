@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 225,
+        "width": 225
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:09:16.593Z",
+            "updatedAt": "2020-04-10T04:09:30.622Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        26
+                    ],
+                    [
+                        110,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:09:19.630Z",
+            "updatedAt": "2020-04-10T04:09:30.622Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        109
+                    ],
+                    [
+                        161,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:09:22.868Z",
+            "updatedAt": "2020-04-10T04:09:30.622Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        147
+                    ],
+                    [
+                        118,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:09:30.311Z",
+            "updatedAt": "2020-04-10T04:09:34.873Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        185
+                    ],
+                    [
+                        129,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

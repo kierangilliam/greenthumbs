@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T06:59:59.104Z",
+            "updatedAt": "2020-05-01T07:00:07.776Z",
+            "tags": [],
+            "classTitle": "tomato_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        105
+                    ],
+                    [
+                        631,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T07:00:03.311Z",
+            "updatedAt": "2020-05-01T07:00:07.776Z",
+            "tags": [],
+            "classTitle": "tomato_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        81
+                    ],
+                    [
+                        861,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ksgill2",
+            "createdAt": "2020-05-01T07:00:07.559Z",
+            "updatedAt": "2020-05-01T07:00:07.559Z",
+            "tags": [],
+            "classTitle": "tomato_young_plant",
+            "points": {
+                "exterior": [
+                    [
+                        810,
+                        78
+                    ],
+                    [
+                        1280,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

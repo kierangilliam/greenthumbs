@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "name": "has_fruit",
+            "value": null,
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-03-30T18:59:35.176Z",
+            "updatedAt": "2020-03-30T18:59:35.176Z"
+        }
+    ],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T03:47:52.160Z",
+            "updatedAt": "2020-04-10T03:48:04.273Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        129
+                    ],
+                    [
+                        503,
+                        589
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T03:47:57.182Z",
+            "updatedAt": "2020-04-10T03:48:04.273Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        347
+                    ],
+                    [
+                        854,
+                        846
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T03:48:04.004Z",
+            "updatedAt": "2020-04-10T03:48:04.004Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        859,
+                        230
+                    ],
+                    [
+                        1240,
+                        803
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

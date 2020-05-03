@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "name": "has_fruit",
+            "value": null,
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-03-30T23:01:07.641Z",
+            "updatedAt": "2020-03-30T23:01:07.641Z"
+        }
+    ],
+    "size": {
+        "height": 183,
+        "width": 275
+    },
+    "objects": [
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:08:14.445Z",
+            "updatedAt": "2020-04-10T04:08:41.136Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        93
+                    ],
+                    [
+                        132,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:08:31.906Z",
+            "updatedAt": "2020-04-10T04:08:38.432Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit_unripe",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        5
+                    ],
+                    [
+                        152,
+                        57
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "simonl07",
+            "createdAt": "2020-04-10T04:08:40.796Z",
+            "updatedAt": "2020-04-10T04:08:40.796Z",
+            "tags": [],
+            "classTitle": "bell_pepper_fruit",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        43
+                    ],
+                    [
+                        197,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
